@@ -38,7 +38,7 @@ All projects in this repository are implemented in **Jupyter Notebooks**, which 
 The repository is organized into folders, each containing a specific project or category of visualizations. Here's the structure:
 
 ```
-data-visualization-projects/
+Data-Visualizations-Using-Python/
 │
 ├── 01_basic_visualizations/            # Basic charts using Matplotlib
 │   ├── line_plots.ipynb
@@ -147,8 +147,8 @@ This repository leverages the following Python libraries:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/data-visualization-projects.git
-   cd data-visualization-projects
+   git clone [https://github.com/your-username/data-visualization-projects.git](https://github.com/Jabulente/Data-Visualizations-Using-Python.git)
+   cd Data-Visualizations-Using-Python
    ```
 
 2. **Install Dependencies**:
